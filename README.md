@@ -1,5 +1,5 @@
 ## API Link
-[https://parentify-ch2-ps318.as.r.appspot.com/type-name]
+(https://parentify-ch2-ps318.as.r.appspot.com/type-name)
 
 ## Query
 - **Type:** biji
