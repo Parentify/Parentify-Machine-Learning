@@ -1,2 +1,4 @@
 # Parentify-Machine-Learning
-https://drive.google.com/file/d/1PMF9EvIxR04jKPZsomsUPAEupe_Rhq9b/view?usp=sharing
+
+Dataset: https://drive.google.com/file/d/1Xm-hsvmXHesFFOGF9qgL6ElUHmGIbiRv/view?usp=sharing
+Model: https://drive.google.com/file/d/1YZtNSLPUsNuylSncAY6yipmP2Pru-zyT/view?usp=sharing
