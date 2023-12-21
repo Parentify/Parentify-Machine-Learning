@@ -3,7 +3,7 @@ import numpy as np
 import os
 import tensorflow as tf
 
-model = tf.keras.models.load_model(os.path.join("ml_model","model.h5")) 
+model = tf.keras.models.load_model(os.path.join("app","model.h5")) 
 
 
 class_name = [
